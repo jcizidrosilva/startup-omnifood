@@ -50,3 +50,5 @@
 <p>Through this project, I gained valuable hands-on experience in web development fundamentals, refining my skills in HTML, CSS, and JavaScript. While working on the Omnifood website, I was able to grasp essential concepts in front-end development and reinforce my understanding of responsive design principles. Moving forward, I am eager to continue learning and expanding my expertise in web development.</p>
 
 <h4><a href="https://startup-omnifood.netlify.app/" target="_blank">Learn more about this project</a></h4>
+
+<img src="./img/1.jpg" alt="image about the project">
